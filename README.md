@@ -1,4 +1,4 @@
-Face and Emotion Recognition
+# Face and Emotion Recognition
 
 ## Overview
 This project covers essential statistical methods in artificial intelligence, focusing on face recognition and emotion classification tasks. You will use binary classification for face recognition and multiclass classification for emotion recognition. 
@@ -93,6 +93,7 @@ Adapt architectures from Part 1 with final layers tailored for k-class emotion r
    ```
    python ./live_camera_inference.py
    ```
+
 
 
 
